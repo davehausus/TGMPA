@@ -1,2 +1,1 @@
-# TGMPA
-Change lines 3594 &amp; 3602
+Este cambio afecta la instalacin de plugins en wp 4.8
